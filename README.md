@@ -16,7 +16,7 @@
 
 ## Use case
 
-- You can easily bridge the gap between IPv4 and IPv6, ensuring compatibility, enhancing security, and optimizing performance as they transition to the future of the internet.
+You can easily bridge the gap between IPv4 and IPv6, ensuring compatibility, enhancing security, and optimizing performance as they transition to the future of the internet.
 
 ## Test results
 
